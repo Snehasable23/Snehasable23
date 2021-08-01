@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on Myself.
 - 🚀 I’m interested in Cybersecurity, Machine Learning and Data Science, Web Development.
 - 🌱 I’m currently learning FullStack Development
-- 📫 How to reach me: snehasable230@gmail.com
+- 📧 How to reach me: snehasable230@gmail.com
+-  linkedin : https://www.linkedin.com/in/snehasable?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcfkqHD1gRs2JlgElIQQq%2Fg%3D%3D                  
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
